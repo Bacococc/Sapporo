@@ -57,7 +57,7 @@
     }
     .background-text2 {
         position:absolute ;
-        top: 770%;
+        top: 755%;
         left: 84%;
         transform: translate(-50%, -50%);
         font-size: 600px;
@@ -67,7 +67,7 @@
     }
     .background-text3 {
         position:absolute ;
-        top: 910%;
+        top: 920%;
         left: 14%;
         transform: translate(-50%, -50%);
         font-size: 600px;
@@ -77,7 +77,7 @@
     }
     .background-text4 {
         position:absolute ;
-        top: 1210%;
+        top: 1200%;
         left: 90%;
         transform: translate(-50%, -50%);
         font-size: 600px;
@@ -87,7 +87,7 @@
     }
     .background-text5 {
         position:absolute ;
-        top: 1400%;
+        top: 1410%;
         left: 90%;
         transform: translate(-50%, -50%);
         font-size: 600px;
@@ -97,7 +97,7 @@
     }
     .background-text6 {
         position:absolute ;
-        top: 1480%;
+        top: 1540%;
         left: 12%;
         transform: translate(-50%, -50%);
         font-size: 600px;
